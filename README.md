@@ -19,9 +19,9 @@ For more details on type-1 fuzzy logic controllers, please refer to:
 
 ## Usage
 
-For learning discrete movement primitives (DMPs) run `dmp_learn`.
+For learning discrete movement primitives (DMPs) run `dmp_learn.m`.
 
-For learning rhythmic movement primitives (RMPs) run `rmp_learn`.
+For learning rhythmic movement primitives (RMPs) run `rmp_learn.m`.
 
 ## Licence
 
